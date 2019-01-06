@@ -1,0 +1,14 @@
+*.css
+bootstrap/lms/static/css/*
+bootstrap/lms/static/.sass-cache/
+bootstrap/lms/static/config.rb
+marvel/lms/static/css/*
+marvel/lms/static/.sass-cache/
+marvel/lms/static/config.rb
+marvelblue/lms/static/css/*
+marvelblue/lms/static/.sass-cache/
+marvelblue/lms/static/config.rb
+marvelyellow/lms/static/css/*
+marvelyellow/lms/static/.sass-cache/
+marvelyellow/lms/static/config.rb
+.DS_Store
